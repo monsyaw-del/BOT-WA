@@ -11,5 +11,5 @@ Bot WhatsApp berbasis [Baileys](https://github.com/WhiskeySockets/Baileys) untuk
 ## 🚀 Cara Menjalankan
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/monsyaw-del/wa-bot-enhancer.git
+   git clone https://github.com/monsyaw-del/BOT-WA
    cd wa-bot-enhancer
