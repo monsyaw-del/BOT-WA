@@ -1,0 +1,22 @@
+{
+  "name": "wa-bot-enhancer",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp untuk menjernihkan foto dan video",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "image-enhancement"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "jimp": "^0.16.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
